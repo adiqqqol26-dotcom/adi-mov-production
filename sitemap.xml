@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://YOUR-DOMAIN.COM/</loc></url>
+  <url>
+    <loc>https://adi-mov-production.adiqqqol26.workers.dev/</loc>
+  </url>
 </urlset>

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-DOMAIN.COM/sitemap.xml
+Sitemap: https://adi-mov-production.adiqqqol26.workers.dev/sitemap.xml
